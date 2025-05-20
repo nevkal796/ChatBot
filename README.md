@@ -22,10 +22,12 @@ A simple and powerful chatbot that lets you upload any PDF and ask questions abo
    git clone https://github.com/your-username/pdf-chatbot.git
    cd pdf-chatbot
 2. **Create a virtual environment (optional but recommended):**
+    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. **Install dependencies:**
+4. **Install dependencies:**
+   ```bash
    pip install -r requirements.txt
 
 
